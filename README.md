@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kismat Bohora</h1>
-<h3 align="center">A enthusiastic and ambitious Full-stack developer</h3>
+<h3 align="center">A enthusiastic Full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kismat1234&label=Profile%20views&color=0e75b6&style=flat" alt="kismat1234" /> </p>
 
